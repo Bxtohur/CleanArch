@@ -1,4 +1,4 @@
-package com.catnip.retrofitexample
+package com.catnip.retrofitexample.data.model
 
 import androidx.annotation.Keep
 import com.google.gson.annotations.SerializedName

@@ -1,5 +1,6 @@
-package com.catnip.retrofitexample
+package com.catnip.retrofitexample.data.network.api.service
 
+import com.catnip.retrofitexample.data.model.ProductsResponse
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
